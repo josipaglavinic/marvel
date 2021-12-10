@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: #ed1d24;
+  height: 65px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 65px;
+}
+
+input {
+  height: 20px;
+  width: 200px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}

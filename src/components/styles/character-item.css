@@ -1,0 +1,40 @@
+.character-name {
+  font-size: large;
+}
+
+.chracter-container {
+  display: inline-block;
+  align-items: center;
+}
+.character-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+}
+
+.fav-button {
+  display: flex;
+  justify-content: space-around;
+}
+button {
+  align-items: center;
+  justify-content: space-around;
+  width: 75%;
+  height: 20px;
+  border: none;
+  background-color: #ed1d24;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(255, 57, 31);
+  color: black;
+}

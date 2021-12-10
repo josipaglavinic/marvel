@@ -1,0 +1,19 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  list-style: none;
+}
+
+.characters {
+  height: 300px;
+  width: 150px;
+  margin: 20px;
+  display: inline-grid;
+}
+
+.cards {
+  margin-left: 20%;
+  margin-right: 20%;
+}
